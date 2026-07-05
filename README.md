@@ -16,7 +16,6 @@ Nashville property sales from 2013-2016.
 - 12,180 rows flagged as bundled multi-parcel sales
 
 ## Files
-- Nashville_cleaning.sql — data cleaning queries
-- Analyze.sql — analysis queries
+- Nashville_cleaning.sql — data cleaning queries and analysis queries
 - nashville_dashboard.pbix — Power BI dashboard
 - nashville_cleaned.csv — cleaned dataset
